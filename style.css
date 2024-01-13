@@ -43,16 +43,7 @@ button{
 }
 
 #menu{
-    height: 80vh;
-    width: 90vw;
-    background-color: bisque;
-    border: solid thick #997009;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 1em;
-    justify-self: center;
+ 
 }
 
 .title{
