@@ -36,6 +36,11 @@ button{
     color: black;
 }
 
+#menu img{
+    width: 20vw;
+ 
+}
+
 #menu{
     height: 80vh;
     width: 90vw;
@@ -45,7 +50,7 @@ button{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 1em;
+    gap: 2em;
     justify-self: center;
 }
 
@@ -53,6 +58,9 @@ button{
    
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
 }
 h1{
 
@@ -84,6 +92,6 @@ button:hover{
    gap: 2em;
 }
 
-img{
+#about img{
     width: 90%;
 }
