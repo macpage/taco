@@ -66,3 +66,7 @@ h1{
     grid-template-columns: 1fr min-content;
     column-gap: 10vh;
 }
+
+button:hover{
+    cursor: pointer;
+}
