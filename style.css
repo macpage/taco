@@ -52,7 +52,8 @@ button{
     flex-direction: column;
     gap: 1em;
     justify-self: center;
-    box-sizing: border-box;
+   
+    overflow: hidden;
 }
 
 .title{
