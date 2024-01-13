@@ -42,7 +42,7 @@ button{
 }
 
 #menu{
-    height: 80vh;
+    height: 90%;
     width: 90vw;
     background-color: bisque;
     border: solid thick #997009;
@@ -50,7 +50,7 @@ button{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 2em;
+    gap: 1em;
     justify-self: center;
 }
 
