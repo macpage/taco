@@ -53,7 +53,7 @@ button{
     gap: 1em;
     justify-self: center;
    
-    overflow: hidden;
+    font-size: 1em;
 }
 
 .title{
