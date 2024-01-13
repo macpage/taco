@@ -70,3 +70,20 @@ h1{
 button:hover{
     cursor: pointer;
 }
+
+#about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+   flex-direction: column;
+   height: 80vh;
+   width: 90vw;
+   justify-self: center;
+   border: solid thick #997009;
+   gap: 2em;
+}
+
+img{
+    width: 90%;
+}
