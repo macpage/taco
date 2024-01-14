@@ -43,17 +43,18 @@ button{
 
 #menu{
    height: 80vh;
-    width: 90vw;
+    width:90vw;
     background-color: bisque;
     border: solid thick #997009;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 1em;
+    gap: 10px;
     justify-self: center;
    
-    font-size: 1em;
+    font-size: 20px;
+   
 }
 
 .title{
@@ -74,7 +75,9 @@ h1{
 .products{
     display: grid;
     grid-template-columns: 1fr min-content;
-    column-gap: 10vh;
+    column-gap: 20px;
+    height: auto;
+    width: auto;;
 }
 
 button:hover{
